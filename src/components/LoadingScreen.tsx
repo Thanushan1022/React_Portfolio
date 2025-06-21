@@ -18,7 +18,7 @@ const LoadingScreen = () => {
     <motion.div
       initial={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      className="fixed inset-0 bg-primary z-50 flex items-center justify-center"
+      className="fixed inset-0 bg-black z-50 flex items-center justify-center"
     >
       <div className="flex flex-col items-center">
         <motion.div
@@ -46,4 +46,4 @@ const LoadingScreen = () => {
   );
 };
 
-export default LoadingScreen; 
+export default LoadingScreen;

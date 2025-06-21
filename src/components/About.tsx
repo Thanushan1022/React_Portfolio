@@ -68,7 +68,7 @@ const About = () => {
             className="space-y-6"
           >
             <p className="text-gray-800 text-lg leading-relaxed">
-              Hello! I'm a passionate full-stack developer with a strong foundation in both
+              Hello! I'm a passionate Web developer with a strong foundation in both
               front-end and back-end technologies. I enjoy creating seamless, user-friendly
               applications that solve real-world problems.
             </p>

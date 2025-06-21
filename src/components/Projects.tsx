@@ -2,11 +2,12 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform } from 'framer-motion';
 import { FaGithub, FaExternalLinkAlt, FaStar, FaCode } from 'react-icons/fa';
 import financialTrackerImg from '../assets/CoinCave.png';
-import freshConImg from '../assets/Grocery.jpg';
+import freshConImg from '../assets/hero.png';
+import portfolioReactImg from '../assets/Myprofile.jpg';
+import bloodDonationImg from '../assets/Blood.jpg';
 
 // Placeholder images
-const bloodDonationImg = 'https://placehold.co/800x600/2563eb/ffffff?text=Blood+Donation+System';
-const portfolioReactImg = 'https://placehold.co/800x600/0284c7/ffffff?text=Portfolio+React';
+
 
 const Projects = () => {
   const [isLoading, setIsLoading] = useState(true);
@@ -46,7 +47,7 @@ const Projects = () => {
       description:
         'A modern portfolio website built with React. Features component-based architecture, smooth transitions, and responsive design.',
       image: portfolioReactImg,
-      github: 'https://github.com/yourusername/portfolio-react',
+      github: 'https://github.com/Thanushan1022/PersonalFinanceTrackerApp',
       demo: 'https://your-portfolio-react.vercel.app',
       technologies: ['React', 'Tailwind CSS', 'Framer Motion'],
       featured: false,
@@ -58,7 +59,7 @@ const Projects = () => {
       description:
         'A comprehensive financial management Android application that helps users track expenses, manage budgets, and visualize spending patterns. Features include expense categorization, budget planning, and financial reports.',
       image: financialTrackerImg,
-      github: 'https://github.com/Ihsas01/PersonalFinanceTrackerApp',
+      github: 'https://github.com/Thanushan1022/PersonalFinanceTrackerApp',
       demo: 'https://play.google.com/store/apps/details?id=com.yourusername.financialtracker',
       technologies: ['Kotlin', 'XML', 'Android SDK', 'Room Database', 'MPAndroidChart'],
       featured: true,

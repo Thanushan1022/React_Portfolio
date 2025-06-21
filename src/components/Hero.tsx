@@ -86,7 +86,7 @@ const Hero = () => {
         <motion.div className="flex-1 w-full" variants={fadeIn}>
           <div className="space-y-6">
             <AnimatedText
-              text="Hello, there I'm"
+              text="Hello, there!  I'm"
               type="paragraph"
               animation="slide"
               className="text-white text-lg md:text-xl font-mono"
@@ -98,14 +98,15 @@ const Hero = () => {
               className="text-5xl sm:text-8xl font-bold text-white"
             />
             <AnimatedText
-              text="a Full Stack Developer."
+              text="a Web Developer."
               type="title"
               animation="bounce"
               className="text-3xl sm:text-4xl font-bold text-gray-300"
               delay={0.2}
             />
             <AnimatedText
-              text="I'm a passionate full-stack developer specializing in building exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products."
+              text="I'm an undergraduate IT student specializing in Software Engineering.
+I'm passionate about building efficient, user-friendly applications across web, mobile, and backend platforms."
               type="paragraph"
               animation="fade"
               className="text-gray-400 py-4 max-w-[700px] text-lg md:text-xl leading-relaxed"
@@ -117,7 +118,7 @@ const Hero = () => {
                 link: 'https://github.com/Thanushan1022'
               }, {
                 icon: <FaLinkedin size={28} />,
-                link: 'https://www.linkedin.com/in/mohamed-ihsas-2a928a2b7'
+                link: 'https://www.linkedin.com/in/thanushan-logenthiran-76b060371/'
               }, {
                 icon: <FaInstagram size={28} />,
                 link: 'https://instagram.com/thanu_shan22'
