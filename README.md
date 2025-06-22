@@ -51,7 +51,7 @@ A modern, responsive portfolio website built with React and Vite, showcasing my 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/React-Portfolio.git
+   git clone https://github.com/yourusername/React_Portfolio.git
    ```
 
 2. **Navigate to project directory**
@@ -141,9 +141,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ihsas-2a928a2b7)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ihsas01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedihsas001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/thanushan-logenthiran-76b060371/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanushan1022)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanushan1022@gmail.com)
 
 </div>
 
@@ -156,5 +156,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by [Ihsas Ifthikar]
+Made with ❤️ by [Thanushan]
 </div>
